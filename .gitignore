@@ -3,3 +3,8 @@
 .idea
 *~
 *.iml
+.vscode
+.gradle
+.settings
+*.jar
+build
